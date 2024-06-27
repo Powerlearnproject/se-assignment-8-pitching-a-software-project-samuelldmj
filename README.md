@@ -397,6 +397,7 @@ Effective CTAs for Software Project Pitches:
     Provide Contact Information: Clearly state the contact information for the project team or organization to facilitate follow-up inquiries. For example, "Don't hesitate to reach out to us at [email protected] or call us at [phone number] for any further questions."
 
 ===================================================================================================================================================================
+Source(GPT and Gemini AI)
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
 - Provide real-world examples or case studies wherever possible.
